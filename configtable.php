@@ -1,1 +1,1 @@
-<?php $tablename = "oquvchi";
+<?php $tablename = "";
