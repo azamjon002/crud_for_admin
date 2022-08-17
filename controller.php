@@ -47,8 +47,6 @@ if (isset($_POST['newusername'])){
 
     $data = $_POST;
 
-
-
     $username = str_replace(' ', '', $_POST['newusername']);
     $password = str_replace(' ', '', $_POST['newpassword']);
     $database_name = str_replace(' ', '', $_POST['newdatabase']);
